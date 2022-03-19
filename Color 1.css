@@ -1,3 +1,11 @@
+body
+{
+	/*background-image: url("https://dvizhok.su/i/files2/auto/2021/03/Toyota_Camry_2021_restyle_2.jpg");*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("./Camry\ Grey.jpeg");
+}
 h1{
 	 color : red;
 	 text-align: center;

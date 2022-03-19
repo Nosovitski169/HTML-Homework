@@ -1,0 +1,43 @@
+h1{
+	 color : red;
+	 text-align: center;
+	}
+h2{
+	 color : grey;
+	 text-align: center;
+}
+.text1{
+ color : darkred; 
+ font-size: 20px;
+}
+#text2{
+color : darkorange;
+font-size: 20px;
+}
+
+a{
+color : grey;
+}
+.Camry {
+  width: 400px;
+  text-align: center;
+}
+.Camry2 {
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+.Camry2rotate {
+	transform: rotate(0deg);
+}
+.superclass {
+	display: flex;
+	justify-content: space-between;
+	padding-right: 200px;
+}
+.superclass .Camry{ 
+margin-right: 20px;
+}
+.superclass .Camry2{ 
+margin-left: 20px;
+}

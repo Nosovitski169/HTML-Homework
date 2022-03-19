@@ -1,10 +1,10 @@
 body
 {
 	/*background-image: url("https://dvizhok.su/i/files2/auto/2021/03/Toyota_Camry_2021_restyle_2.jpg");*/
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-image: url("./Camry\ Grey.jpeg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:initial;
+	background-image: url("./gory.jpeg");
 }
 h1{
 	 color : red;
@@ -19,13 +19,14 @@ h2{
  font-size: 20px;
 }
 #text2{
-color : darkorange;
+color : whitesmoke;
 font-size: 20px;
 }
-
-a{
-color : grey;
+a
+{
+color : darkgrey;
 }
+a:visited {color: greenyellow}
 .Camry {
   width: 400px;
   text-align: center;

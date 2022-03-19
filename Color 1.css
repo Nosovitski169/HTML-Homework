@@ -4,7 +4,7 @@ body
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:initial;
-	background-image: url("./gory.jpeg");
+	background-image: url("./gorod.jpeg");
 }
 h1{
 	 color : red;
@@ -15,25 +15,31 @@ h2{
 	 text-align: center;
 }
 .text1{
- color : darkred; 
+ color : rgb(255, 255, 255); 
  font-size: 20px;
 }
-#text2{
+.text2{
 color : whitesmoke;
 font-size: 20px;
 }
 a
 {
-color : darkgrey;
+color : green;
 }
 a:visited {color: greenyellow}
 .Camry {
   width: 400px;
   text-align: center;
 }
+.round 
+{
+    border-radius: 100px; /* Радиус скругления */
+    border: 5px solid rgb(48, 48, 48); /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+}
 .Camry2 {
   width: 400px;
-  margin: 0 auto;
+  margin: auto;
   display: block;
 }
 .Camry2rotate {
